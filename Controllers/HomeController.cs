@@ -9,7 +9,7 @@ namespace VSGitTest2.Controllers
     public class HomeController : Controller
     {
         //
-        // GET: /Home/ - by simon - update!
+        // GET: /Home/ - by simon - update 2!
 
         public ActionResult Index()
         {
