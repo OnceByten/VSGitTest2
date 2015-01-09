@@ -10,7 +10,7 @@ namespace VSGitTest2.Controllers
     {
         //
         // GET: /Home/ - by simon - update 2!
-
+        // no no no
         public ActionResult Index()
         {
             return View();
