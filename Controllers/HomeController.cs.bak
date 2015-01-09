@@ -9,8 +9,15 @@ namespace VSGitTest2.Controllers
     public class HomeController : Controller
     {
         //
+<<<<<<< HEAD
+        // GET: /Home/ - by simon (actually moss, now [edited])
+        // hello from moss..
+=======
         // GET: /Home/ - by simon - update 2!
+>>>>>>> origin/simonbranch2
 
+
+        // moss-branch-test edit
         public ActionResult Index()
         {
             return View();
