@@ -12,6 +12,8 @@ namespace VSGitTest2.Controllers
         // GET: /Test/
         // new comment [moss] edit..
         // edit in moss branch
+        // edit in locla branch after remote merge occured.
+
         public ActionResult Index()
         {
             return View();
