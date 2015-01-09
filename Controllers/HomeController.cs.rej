@@ -1,0 +1,10 @@
+diff a/Controllers/HomeController.cs b/Controllers/HomeController.cs	(rejected hunks)
+@@ -10,7 +10,7 @@
+     {
+         //
+         // GET: /Home/ - by simon - update 2!
+-
++        // no no no
+         public ActionResult Index()
+         {
+             return View();
